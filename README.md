@@ -1,19 +1,32 @@
-# Karo Pitch
+# Karo Pitch 🚀
 
-Karo Pitch is a startup landing page where founders can pitch their startups to investors.
+Karo Pitch is a modern startup landing page where founders can pitch their ideas and connect with potential investors. Designed with a clean UI and strong call-to-action sections.
 
-## Features
-- Modern startup landing page UI
-- Hero section with call to action
-- How It Works section
-- Featured Startups section
-- Responsive design
+## 🌐 Live Demo
 
-## Technologies Used
-- HTML
-- CSS
-- Font Awesome
-- Google Fonts
+👉 https://tushargupta-008.github.io/karo-pitch/
 
-## Author
-Tushar Gupta
+## 🚀 Features
+
+* Modern startup landing page UI
+* Hero section with strong CTA
+* “How it Works” section
+* Investor & startup sections
+* Fully responsive design
+
+## 🛠 Tech Stack
+
+* HTML
+* CSS
+* Font Awesome
+* Google Fonts
+
+## 📸 Preview
+
+(Add screenshots here)
+
+## 💡 What I Learned
+
+* Designing real-world landing pages
+* Structuring UI for user engagement
+* Improving visual hierarchy and CTA placement
