@@ -23,8 +23,7 @@ Karo Pitch is a modern startup landing page where founders can pitch their ideas
 
 ## 📸 Preview
 
-(Add screenshots here)
-
+![Preview](./hero-preview.png)
 ## 💡 What I Learned
 
 * Designing real-world landing pages
